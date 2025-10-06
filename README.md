@@ -2,7 +2,7 @@
 
 My first Rust programs created while learing the language.
 
-## How to run
+## How to Run
 
 ```bash
 cargo run
